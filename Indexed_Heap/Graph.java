@@ -1,6 +1,6 @@
 /**
  * Class to represent a graph
- * @author : pgr150030- Panchami Rudrakshi
+ * @author :Panchami Rudrakshi
  * reference : rbk code
  */
 

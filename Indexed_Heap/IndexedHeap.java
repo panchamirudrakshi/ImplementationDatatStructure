@@ -1,6 +1,6 @@
 /**
  * Implementation of Indexed heap
- * @author : pgr150030- Panchami Rudrakshi 
+ * @author : Panchami Rudrakshi 
  * reference : rbk code 
  */
 import java.util.Comparator;

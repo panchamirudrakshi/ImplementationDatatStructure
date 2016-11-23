@@ -1,5 +1,5 @@
 /**
- * @author : pgr150030- Panchami Rudrakshi
+ * @author : Panchami Rudrakshi
  * reference : rbk lecture 15 notes - binary heaps and priority queue
  * Prim1 (priority queue of edges; using Java's priority queues)
  * @param connected graph , source vertex

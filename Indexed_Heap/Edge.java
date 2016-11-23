@@ -1,6 +1,6 @@
 /**
  * Class that represents an edge of a Graph 
- * @author : pgr150030- Panchami Rudrakshi 
+ * @author : Panchami Rudrakshi 
  * reference : rbk code
  */
 

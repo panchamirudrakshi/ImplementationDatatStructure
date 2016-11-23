@@ -1,5 +1,5 @@
 /**
- * @author : pgr150030- Panchami Rudrakshi
+ * @author : Panchami Rudrakshi
  * reference : rbk lecture 16 notes - indexed heaps and priority queue
  * Prim2 (priority queue of vertices, using indexed heaps),
  * @param connected graph , source vertex

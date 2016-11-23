@@ -1,6 +1,6 @@
 /** 
  * Timer class for roughly calculating running time of programs
- * @author : pgr150030- Panchami Rudrakshi
+ * @author : Panchami Rudrakshi
  * reference : rbk code
  * Corrected memory calculations to 1048576 instead of 1000000
  */

@@ -1,8 +1,6 @@
 # ImplementationDatatStructure
 
-pgr150030 - Panchami Rudrakshi
-
-Question : Implementation of Indexed heaps
+Implementation of Indexed heaps
 
 Files:
 BinaryHeap.java - Binary heap implementation of priority queues

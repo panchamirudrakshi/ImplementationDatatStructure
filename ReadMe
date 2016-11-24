@@ -1,0 +1,20 @@
+Implementation of Data structures and Algorithms: 
+1) Finding Euler Tours 
+2) Implementation of Skip List 
+3) Implementation of Indexed Heaps, Prims Algorithm and Dijkstras Algorithm 
+4) Implementation of Critical Paths 
+5) Implementation of Merge Sort using Java Generics 
+6) Finding Union, Intersection and set difference of the sets using linked lists as sorted sets 
+7) Addition and subtraction of large numbers stored as list 
+8) Implementation of Multi unzip on single linked list 
+9) Recursive and non recursive functions for reversing and printing list elements in reverse order 
+10) Circular link list implementation using index 
+11) Implementation of karatsuba's algorithm for multiplying large numbers 
+12) Implemention of array-based, bounded-sized queues for offer, poll, peek, isEmpty and resize function 
+13) Implemention of Shunting Yard algorithm for parsing arithmetic expressions 
+14) Compare the performance of Quicksort implementations using standard version of the Partition algorithm versus Dual-Pivot partition 
+15) Compare the running times of the following algorithms for computing Fibonacci numbers: (1) recursive (2) O(n) dynamic program (3)O(log n) DAC algorithm 
+16) Implementation of AVL and Red black trees 
+17) Implementation of Quick sort using standard partiotion and dual pivot partiotion 
+18) Implementation of priority queue for finding the kth largest element 
+19) Implementation of TreeMap to find length of longest streak of consecutive integers, pairs of elements of an array summing to an element X, return array with element of another array in the same order.
